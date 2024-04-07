@@ -1,0 +1,55 @@
+.el-button--primary {
+  background-color: #6038dc;
+  border-radius: 10px;
+  border: 0px;
+  &:hover {
+    background-color: #6038dc;
+    opacity: 0.7;
+  }
+  &:active {
+    background-color: #6038dc;
+    opacity: 0.7;
+  }
+  &:disabled {
+    background-color: #6038dc;
+    opacity: 0.7;
+    &:hover {
+      background-color: #6038dc;
+      opacity: 0.7;
+    }
+  }
+  &:focus {
+    background-color: #6038dc;
+  }
+}
+#pageItem .el-button {
+  color: #616266;
+  font-weight: 400;
+  &:hover {
+    color: #6038dc !important;
+    font-weight: 700;
+  }
+  &:disabled {
+    color: #ffffff !important;
+    font-weight: 400;
+  }
+}
+#pageArrow .el-button {
+  font-size: 16px;
+  &:hover {
+    color: #6038dc !important;
+    font-size: 20px;
+  }
+  &:disabled {
+    color: #c0c4cc !important;
+    font-size: 16px;
+  }
+  &:focus {
+    color: #616266 !important;
+    font-size: 16px;
+    &:hover {
+      color: #6038dc !important;
+      font-size: 20px;
+    }
+  }
+}

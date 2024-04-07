@@ -1,0 +1,84 @@
+{
+  "showMenus": {
+    "service_run_state": "服务运行工况",
+    "use_access_log": "用户访问日志",
+    "user_list_data": "用户列表数据",
+    "user_pay_data": "用户付费数据"
+  },
+  "welcome_txt": "欢迎使用JPassword服务监测系统！",
+  "index": "序号",
+  "vip_start_time": "套餐开始时间",
+  "vip_end_time": "套餐结束时间",
+  "user_address": "用户地址",
+  "user_state": "用户状态",
+  "user_state_type": {
+    "try": "试用",
+    "vip": "会员",
+    "common": "普通"
+  },
+  "vip_state": "会员状态",
+  "vip_state_type": {
+    "inTry": "试用服务中",
+    "inVip": "会员服务中",
+    "outTry": "试用已到期",
+    "outVip": "会员已到期",
+    "in": "服务中",
+    "out": "已到期"
+  },
+  "pay_record": "付费记录",
+  "pay_time": "付费时间",
+  "check": "查看",
+  "empty_content": "未查询到数据",
+  "empty_content_txt": {
+    "need_user_address": "，请先输入需要查询的用户地址进行查询"
+  },
+  "enter_tip": {
+    "enter_user_address": "请输入用户地址"
+  },
+  "Inquire": "查询",
+  "loading": "正在加载中...",
+  "chainHash": "上链哈希",
+  "pay_money": "付费金额",
+  "money": "{money}元",
+  "pay_type": "付费方式",
+  "zfb": "支付宝",
+  "vip_combo": "会员套餐",
+  "vip_combo_type": {
+    "month_card": "月卡",
+    "quarter_card": "季卡",
+    "year_card": "年卡"
+  },
+  "server_type": {
+    "block_chain": "区块链节点",
+    "date_read_and_write": "数据读写服务节点",
+    "pay_server": "收费服务节点",
+    "ipfs_info": "IPFS节点",
+    "all_type": "全部类型"
+  },
+  "collect_time": "采集时间",
+  "node_type": "节点类型",
+  "node_IP": "节点IP",
+  "node_state": "节点状态",
+  "normal": "正常",
+  "abnormal": "异常",
+  "history_record": "历史状态",
+  "visit_time": "访问时间",
+  "visit_do_type": "访问操作类型",
+  "to": "至",
+  "start_date": "开始日期",
+  "end_date": "结束日期",
+  "space_list": {
+    "1_hour": "1小时",
+    "3_hour": "3小时",
+    "6_hour": "6小时",
+    "12_hour": "12小时",
+    "24_hour": "24小时"
+  },
+  "time_space": "时间间隔",
+  "visit_log_type": {
+    "read": "读取",
+    "save": "保存",
+    "delete": "删除",
+    "all_type": "全部类型"
+  }
+}

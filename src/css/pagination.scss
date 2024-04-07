@@ -1,0 +1,23 @@
+.el-pagination.is-background .el-pager li:not(.disabled).active {
+  background-color: #6038dc;
+  color: #fff !important;
+  font-weight: 400;
+}
+.el-pagination.is-background .el-pager li:hover {
+  color: #6038dc !important;
+  font-weight: 700;
+}
+.el-pagination.is-background .el-pager li {
+  color: #616266;
+  font-weight: 400;
+}
+.el-pagination.is-background .btn-next :hover,
+.el-pagination.is-background .btn-prev :hover {
+  color: #6038dc !important;
+  font-size: 16px;
+}
+.el-pagination.is-background .btn-prev:disabled :hover,
+.el-pagination.is-background .btn-next:disabled :hover {
+  color: #c0c4cc !important;
+  font-size: 12px;
+}
